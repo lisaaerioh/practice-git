@@ -5,3 +5,5 @@ I just now heard about markdown
 Also have an understanding of git but github has me confused
 
 Making a commit
+
+Making change on new branch
